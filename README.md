@@ -110,3 +110,47 @@
 
 ***3.2. CAPÍTULO 10-MAGNETISMO Y ELECTROMAGNETISMO.***
 
+**2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?**
+
+![image](https://user-images.githubusercontent.com/116774906/210189796-942cbfbd-77cd-4f03-a9e6-363d42fa5df8.png)
+
+**4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.**
+
+![image](https://user-images.githubusercontent.com/116774906/210189813-617e4eb1-21ff-4c9f-9839-257165370e01.png)
+
+**6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?**
+
+![image](https://user-images.githubusercontent.com/116774906/210189819-2936d263-add4-4650-bbd3-c2dfac70d79d.png)
+
+**8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m2 si la permeabilidad absoluta es de 150x10-7 Wb/At*m**
+
+![image](https://user-images.githubusercontent.com/116774906/210189829-216d326d-3c41-4551-ba44-9c6111d2e7b0.png)
+
+**10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?**
+
+*El embolo del imán se retrae cuando se activa un solenoide.*
+
+**12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.**
+
+![image](https://user-images.githubusercontent.com/116774906/210189849-ca96e273-53bb-4ae8-b4c0-45412c25e912.png)
+
+**14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?**
+
+![image](https://user-images.githubusercontent.com/116774906/210189856-9303e0f4-a502-44a8-8a6e-48f458c19cb2.png)
+
+**16. En la figura 10-44, hay 500 vueltas. Determine**
+
+![image](https://user-images.githubusercontent.com/116774906/210189864-46d59df4-7b9b-4b85-96f4-60b9107316af.png)
+
+**18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?**
+
+*Si la razón de cambio de flujo se duplica el voltaje inducido se duplica de igual manera.*
+
+**20. ¿Cómo complementa la ley de Lenz a la ley de Faraday?**
+
+*La ley de Lenz nos dice que la dirección fluye la corriente, y establece que la dirección siempre es tal que se opone al cambio de flujo que produce, y Faraday nos dice que la magnitud de la FEM producida.*
+
+**22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?**
+
+![image](https://user-images.githubusercontent.com/116774906/210189890-05993ea4-6f3e-4615-ae69-954ea6a7d307.png)
+
