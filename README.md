@@ -183,10 +183,10 @@ https://youtu.be/m-SETOLpbas
 
 ## 6. BIBLIOGRAFÍA
 
--Ferrovial. (s.f). *¿Qué es el electromagnetismo?*. Recuperado el 02 de enero de 2022 de: https://www.ferrovial.com/es/stem/electromagnetismo/#:~:text=El%20electromagnetismo%20es%20una%20rama,%3B%20por%20ejemplo%2C%20la%20luz.  
+-Ferrovial. (s.f). *¿Qué es el electromagnetismo?*. Recuperado el 02 de enero de 2023 de: https://www.ferrovial.com/es/stem/electromagnetismo/#:~:text=El%20electromagnetismo%20es%20una%20rama,%3B%20por%20ejemplo%2C%20la%20luz.  
 
 -Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
 
--Matarozzo, E. (2022, 20 de octubre). *Imanes y magnetismo: ¿qué son y para que sirven?*. Recuperado el 02 de enero de 2022 de: https://billiken.lat/para-tus-tareas/los-imanes-y-el-magnetismo-que-son-y-para-que-sirven/
+-Matarozzo, E. (2022, 20 de octubre). *Imanes y magnetismo: ¿qué son y para que sirven?*. Recuperado el 02 de enero de 2023 de: https://billiken.lat/para-tus-tareas/los-imanes-y-el-magnetismo-que-son-y-para-que-sirven/
 
 
