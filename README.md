@@ -12,7 +12,7 @@
 
 *-Identificar las diferencias entre el análisis de ramas, lazos y nodos.*
 
-*-Estudiar lo que abarca el magnetismo y electromagnetismo.*
+*-Estudiar lo que abarca los temas sobre magnetismo y electromagnetismo.*
 
 *-Aplicar los conocimientos de los métodos de análisis, ramas, lazos y nodos en la resolución de circuitos.*
 
@@ -169,8 +169,24 @@
 
 *Link del video en YouTube*
 
+https://youtu.be/m-SETOLpbas
+
 ## 5. CONCLUSIONES
+
+*-Los métodos más usados para resolver un problema relacionado con circuitos son el análisis de ramas, lazos y nodos, que se relacionan con temas antes visto como son la ley de Ohm, leyes de LCK y LVK, que son importantes tenerlos en cuenta ya que tener esos aprendizajes dominados resulta en una mayor facilidad para desarrollar los problemas y llegar a la solución.* 
+
+*-Saber las diferencias entre los métodos de resolución como son ramas, lazos y nodos es importante, ya que podemos aplicar al momento de desarrollar un ejercicio una de las tres, mas que todo por la facilidad y el tiempo que nos demoremos en tal desarrollo, pero tenemos que saber de que trata cada una por que se nos pedirá aplicar una de las tres.*
+
+*-El magnetismo es importante ya que es el conjunto de fenómenos físicos mediados por campos magnéticos, estos en lo que abarca la materia son provocados por corrientes eléctricas la cual es parte de un fenómeno en general llamado electromagnetismo.*
+
+*-Al momento de resolver un ejercicio es importante tener en cuenta las características que nos ofrece cada método de resolución, ya que unos usan corrientes como incógnita principal como el de ramas y mallas o se basa en el voltaje como el de nodos.*
 
 ## 6. BIBLIOGRAFÍA
 
+-Ferrovial. (s.f). *¿Qué es el electromagnetismo?*. Recuperado el 02 de enero de 2022 de: https://www.ferrovial.com/es/stem/electromagnetismo/#:~:text=El%20electromagnetismo%20es%20una%20rama,%3B%20por%20ejemplo%2C%20la%20luz.  
+
 -Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
+
+-Matarozzo, E. (2022, 20 de octubre). *Imanes y magnetismo: ¿qué son y para que sirven?*. Recuperado el 02 de enero de 2022 de: https://billiken.lat/para-tus-tareas/los-imanes-y-el-magnetismo-que-son-y-para-que-sirven/
+
+
